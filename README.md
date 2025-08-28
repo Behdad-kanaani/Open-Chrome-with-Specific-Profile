@@ -99,5 +99,3 @@ If you have any questions, suggestions, or feedback, feel free to open an issue 
 ---
 
 Thanks for using **Behdad-kanaani/Open-Chrome-with-Specific-Profile**! 🚀
-
-```
