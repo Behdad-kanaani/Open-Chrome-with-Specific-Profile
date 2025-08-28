@@ -1,4 +1,4 @@
-#Open Chrome with Specific Profile
+# Open Chrome with Specific Profile
 
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg) ![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
 
