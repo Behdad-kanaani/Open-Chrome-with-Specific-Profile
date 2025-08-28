@@ -25,7 +25,7 @@ You can also pass an optional URL to open directly in a new window with your sel
 
 1. **Clone the repository** or download the script:
 
-   ```bash
+```bash
    git clone https://github.com/Behdad-kanaani/Open-Chrome-with-Specific-Profile.git
    cd Open-Chrome-with-Specific-Profile
 ````
